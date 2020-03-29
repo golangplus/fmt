@@ -1,3 +1,3 @@
-module github.com/golangplus/fmtp
+module github.com/golangplus/fmt
 
 go 1.14
